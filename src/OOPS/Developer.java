@@ -1,4 +1,4 @@
-package oop;
+package OOPS;
 
 public class Developer extends Employee { // Inheritance
     public Developer(String name, double salary) {
